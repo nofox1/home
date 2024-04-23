@@ -1,5 +1,5 @@
 # Nolan's Portfolio
-                              Welcome to my portfolio! This repository serves as a showcase of my projects and skills.
+Welcome to my portfolio! This repository serves as a showcase of my projects and skills.
 ![image](https://github.com/nofox1/home/assets/136627240/88ed6408-411c-4971-9165-3b57eab14283)
 
 # About Me 
