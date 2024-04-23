@@ -1,5 +1,6 @@
 # Nolan's Portfolio
 Welcome to my portfolio! This repository serves as a showcase of my projects and skills.
+
 ![image](https://github.com/nofox1/home/assets/136627240/88ed6408-411c-4971-9165-3b57eab14283)
 
 # About Me 
@@ -31,9 +32,9 @@ I'm a graduate from a comprehensive full stack development bootcamp at the Unive
 # Contact Me 
 Feel free to reach out to me: 
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): nfox598625@gmail.com
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) nfox598625@gmail.com
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white): https://www.linkedin.com/in/nolan-fox-49a24a2b7/
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/nolan-fox-49a24a2b7/
 
 Personal Website: https://nofox1.github.io/home/
 
