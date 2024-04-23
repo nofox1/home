@@ -31,7 +31,9 @@ I'm a graduate from a comprehensive full stack development bootcamp at the Unive
 # Contact Me 
 Feel free to reach out to me: 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): nfox598625@gmail.com
+
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white): https://www.linkedin.com/in/nolan-fox-49a24a2b7/
+
 Personal Website: https://nofox1.github.io/home/
 
 ## Source 
